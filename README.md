@@ -9,3 +9,4 @@ Addition: In dashboard.php template there is code added for Cancel Subscription 
 Enjoy Oppwa payment gateway.
 
 ![image](https://github.com/user-attachments/assets/6f6a8fcf-7c9a-470a-81d1-c9e1b36a2003)
+![image](https://github.com/user-attachments/assets/21916452-462c-451f-b9dc-9a30dbb648cd)
